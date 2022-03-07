@@ -49,4 +49,4 @@ I will continue to focus on understanding and learning more about a responsive a
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Khemmie-Ray)
+- Frontend Mentor - [@Khemmie-Ray](https://www.frontendmentor.io/profile/Khemmie-Ray)
