@@ -19,7 +19,8 @@ This is my own attempt at solving the QR code component challenge on Frontend Me
 
 ### Screenshot
 
-(../Screenshot.png)
+![](images/Screenshot.png)
+
 
 ### Links
 
